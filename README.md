@@ -9,7 +9,7 @@ Key Highlights:
 - Trained and validated on a dataset of 317 patients imaged on a total-body uEXPLORER PET/CT scanner.
 - Achieved significant superiority over other established denoising algorithms across different dose-reduction factors.
 
-For more details, please refer to our [paper (to be published)](www.google.com).
+For more details, please refer to our [paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad2e6f/meta).
 
 ## Architecture
 
@@ -20,7 +20,7 @@ PETformer network architecture:
 
 ![result1](./figs/result1.png)
 
-For more results, please refer to our [paper (to be published)](www.google.com).
+For more results, please refer to our [paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad2e6f/meta).
 
 ## Pre-trained Weights
 
@@ -45,7 +45,7 @@ denoised_image = model(input_image)
 ## Citation
 
 If you found this work useful or used it in your research, please consider citing our paper:
-(to be published)
+Li, Y., & Li, Y. (2024). PETformer network enables ultra-low-dose total-body PET imaging without structural prior. Physics in Medicine & Biology, 69(7), 075030.
 
 
 ## Contact
